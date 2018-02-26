@@ -1,0 +1,2 @@
+# YoBitPumpBot
+Yobit Pump Bot
